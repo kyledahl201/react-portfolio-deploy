@@ -1,6 +1,6 @@
 export const skills = {
     heading: "Skills",
-    quote: "''What we observe is not nature itself, but nature exposed to our method of questioning.''",
+    // quote: "''What we observe is not nature itself, but nature exposed to our method of questioning.''",
     techSkills: [
         "JavaScript",
         "NodeJS",

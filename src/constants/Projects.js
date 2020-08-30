@@ -1,6 +1,6 @@
 export const projects = {
     heading: "Projects",
-    quote: "''Imagination is more important than knowledge.''",
+    // quote: "''Imagination is more important than knowledge.''",
     projectList: [
         {
             name: "Lunch and Wag",
